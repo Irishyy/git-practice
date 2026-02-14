@@ -1,2 +1,1 @@
-Hello Git
-Learning Git basics
+Learn Git basics with me
